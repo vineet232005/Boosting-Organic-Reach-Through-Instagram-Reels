@@ -45,7 +45,6 @@ An analytics-based strategy for optimizing Instagram Reels to enhance organic gr
 
 ## 📁 Project Files
 - 📊 [Download Project Presentation (PPTX)](link-to-ppt)  
-- 📄 Screenshots/Data (optional: add screenshots folder)
 
 ## 🔗 License
 This project is part of an academic submission for digital marketing coursework and is intended for learning and demonstration purposes only.
