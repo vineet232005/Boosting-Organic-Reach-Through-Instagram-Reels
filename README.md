@@ -44,7 +44,7 @@ How can we effectively use Instagram Reels to boost visibility and engagement wi
 An analytics-based strategy for optimizing Instagram Reels to enhance organic growth, supported by measurable insights and performance comparisons.
 
 ## 📁 Project Files
-- 📊 [Download Project Presentation (PPTX)](link-to-ppt)  
+- 📊 [Download Project Presentation (PPTX)](https://drive.google.com/drive/folders/1rhcZDYhCziaQ8c8lGOIhrcQgTHx6B8jU?usp=sharing)  
 
 ## 🔗 License
 This project is part of an academic submission for digital marketing coursework and is intended for learning and demonstration purposes only.
