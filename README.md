@@ -33,7 +33,14 @@ How can we effectively use Instagram Reels to boost visibility and engagement wi
 - Meme-style Reels received more shares and likes.
 - Reels under 30 seconds performed significantly better.
 - Captions with emojis and calls to action (CTAs) saw higher interaction.
+  
+## 📊 Visual Insights
 
+### Instagram Reel Performance Metrics
+- Bar chart comparing Reach, Likes, Comments, Shares, and Saves for each Reel.
+
+### Engagement Rate Comparison
+- Line graph showing which Reel had the highest engagement rate.
 ## 💡 Recommendations
 - Focus on short, high-value Reels (~30 seconds)
 - Use trending sounds and hashtags strategically
